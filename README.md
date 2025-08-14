@@ -1,4 +1,4 @@
-# karli_nefes
+# Karlı Nefes
 Sigarayı Bırakma Uygulaması
 
 Olası Özellikler:
